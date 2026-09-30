@@ -1,0 +1,8 @@
+---
+include:
+    - board: nice_nano//zmk
+      shield: dot_display
+    - board: nice_nano//zmk
+      shield: dot_display
+
+# vim: ft=yaml et sw=4 sts=4 ts=4

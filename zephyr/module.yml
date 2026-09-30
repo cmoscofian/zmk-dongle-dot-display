@@ -1,0 +1,9 @@
+---
+name: zmk-dongle-dot-display
+build:
+    kconfig: Kconfig
+    settings:
+        board_root: .
+    cmake: .
+
+# vim: ft=yaml et sw=4 sts=4 ts=4

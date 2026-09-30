@@ -1,0 +1,10 @@
+---
+file_format: "1"
+id: dot_display
+name: dot_display
+type: shield
+url: https://github.com/cmoscofian/zmk-dongle-dot-display
+requires: 
+    - i2c_oled
+
+# vim: ft=yaml et sw=4 sts=4 ts=4

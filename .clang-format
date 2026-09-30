@@ -1,0 +1,27 @@
+---
+AlignArrayOfStructures: Right
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: true
+AlignConsecutiveAssignments:
+  Enabled: true
+  AcrossComments: true
+  AcrossEmptyLines: false
+AlignConsecutiveDeclarations:
+  Enabled: true
+  AcrossComments: true
+  AcrossEmptyLines: false
+AllowShortEnumsOnASingleLine: false
+AlwaysBreakAfterReturnType: AllDefinitions
+BinPackArguments: true
+BraceWrapping:
+  AfterFunction: true
+  AfterStruct: true
+BreakBeforeBraces: Allman
+ColumnLimit: 0
+IndentGotoLabels: false
+IndentWidth: 4
+Language: C
+TabWidth: 4
+UseTab: ForIndentation
+
+# vim: ft=yaml
